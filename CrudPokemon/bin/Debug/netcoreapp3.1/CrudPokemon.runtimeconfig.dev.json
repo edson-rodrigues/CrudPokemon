@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vibe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vibe\\.nuget\\packages"
+    ]
+  }
+}
